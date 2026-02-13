@@ -1,4 +1,4 @@
-# aplicación-criaturas
+# reto-aplicacion-criaturas-intergalacticas
 
 Aplicación CRUD desarrollada con Vue 3 y Bootstrap 5 para registrar y gestionar criaturas intergalácticas en tiempo real.
 
